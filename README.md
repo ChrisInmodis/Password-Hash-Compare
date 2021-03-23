@@ -3,7 +3,7 @@
 In diesem Repository finden Sie den Code zu unserem Webseiten Basis Sicherheit Guide. 
 Mit dem Skript wird demonstriert wie sich Hashing mit und ohne Salt auf die Sicherheit von Passwörtern auswirkt. 
 
-Den gesamten Webseiten Basis Sicherheit Guide können Sie kostenlos auf unserem Blog lesen. 
+Den gesamten Webseiten Basis Sicherheit Guide können Sie kostenlos auf unserem Blog lesen: 
 
 
 # Credits
